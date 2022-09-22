@@ -1,0 +1,23 @@
+.title{
+text-align:center;
+}
+
+.languajes-container{
+ margin-bottom:30px;
+ text-align:center;
+  
+}
+
+.resultContainer{
+    display:flex;
+    justify-content:center;
+    text-align: center;
+    align-items:center;
+    gap:20px;
+}
+
+.in, .out{
+    display:flex;
+    flex-direction:column;
+    width:150px;
+}
